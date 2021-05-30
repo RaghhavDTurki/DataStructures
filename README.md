@@ -1,2 +1,2 @@
 # DataStructures
-Algorithms for various Data Structures in Python, C and C++
+Implementations of various Data Structures and their Algorithms in Python,C and C++
